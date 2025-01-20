@@ -1,0 +1,11 @@
+
+Name: Sargis Petrosyan
+
+Email: sargis.petrosyan@wsu.edu
+
+Files inlcuded: 
+
+    - index.html: The home page for the pet sitting service site. Includes a video and hypertext for other pages
+    - contact.html: The contact page for the site. Includes contact form section and hypertext for other pages
+    - about.html: The about-us page for the site. Includes information about the service team and hypertext for other pages
+    - pet_video_pixabay.mp4: The mp4 file used for the looped video in the home page 
